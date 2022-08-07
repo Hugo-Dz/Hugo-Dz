@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I use design to make AI solutions trustable & profitable.**
+<span style="color:blue">**I use design to make AI solutions trustable & profitable.**</span>.
 
   
    
