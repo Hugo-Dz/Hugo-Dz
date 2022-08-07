@@ -2,7 +2,8 @@
 
 **I use design to make AI solutions trustable & profitable.**
 
-
+  
+   
 
 Last work ➡️ [DALLE-E Mini redesign](https://www.hugoduprez.com/dalleeMiniRedesign)
 
