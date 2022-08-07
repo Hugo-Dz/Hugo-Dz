@@ -2,11 +2,17 @@
 
 **I use design to make AI solutions trustable & profitable.**
 
-  
-   
+   
+
+🦖 Favorite toys
+- [Figma](https://www.figma.com/)
+- [Svelte](https://svelte.dev/repl/hello-world?version=3)
+- [Typescript](https://www.typescriptlang.org/)
+
+  
 
 Last work ➡️ [DALLE-E Mini redesign](https://www.hugoduprez.com/dalleeMiniRedesign)
 
 ![Last work image](https://www.hugoduprez.com/works/dalleeMiniRedesign/Presentation%20result-min.png)
 
-[Twitter](https://twitter.com/HugoDuprez) | [Website](https://www.hugoduprez.com/) | [Blog](https://medium.com/@duprez.hugo) | [Dribbble](https://dribbble.com/HugoDuprez/shots)
+[Twitter](https://twitter.com/HugoDuprez) | [Website](https://www.hugoduprez.com/) | [Blog](https://medium.com/@duprez.hugo) | [Dribbble](https://dribbble.com/HugoDuprez/shots) | [Motion](https://www.instagram.com/superstory.design/)
