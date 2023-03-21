@@ -7,7 +7,7 @@
 🦖 Favorite toys
 - [Figma](https://www.figma.com/)
 - [Svelte](https://svelte.dev/repl/hello-world?version=3)
-- [Typescript](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
   
 
