@@ -11,8 +11,8 @@
 
   
 
-Last work ➡️ [DALLE-E Mini redesign](https://www.hugoduprez.com/dalleeMiniRedesign)
+Last work ➡️ [Text-to-Material Generator (acq)](https://www.texturelab.xyz/)
 
-![Last work image](https://www.hugoduprez.com/works/dalleeMiniRedesign/Presentation%20result-min.png)
+![Last work image](https://i.postimg.cc/50T0xwp0/texturelab11.png)
 
-[Twitter](https://twitter.com/HugoDuprez) | [Website](https://www.hugoduprez.com/) | [Blog](https://medium.com/@duprez.hugo) | [Dribbble](https://dribbble.com/HugoDuprez/shots) | [Motion](https://www.instagram.com/superstory.design/)
+[Twitter](https://twitter.com/HugoDuprez) | [Website](https://www.hugoduprez.com/) | [Blog](https://medium.com/@duprez.hugo) | [Dribbble](https://dribbble.com/HugoDuprez/shots) | [Motion Design](https://www.instagram.com/superstory.design/)
