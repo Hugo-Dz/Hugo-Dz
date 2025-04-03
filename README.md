@@ -11,6 +11,6 @@
 
   
 
-Last work ➡️ [Text-to-Material Generator (acq)](https://www.texturelab.xyz/)
+Latest work ➡️ [Text-to-Material Generator (acq)](https://www.texturelab.xyz/)
 
 ![Last work image](https://hdzmedia.xyz/texturelab_cover.png)
