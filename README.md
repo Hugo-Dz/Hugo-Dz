@@ -11,6 +11,6 @@
 
   
 
-Latest work ➡️ [JesterKit]([https://www.texturelab.xyz/](https://github.com/Hugo-Dz/exe))
+Latest work ➡️ [JesterKit](https://github.com/Hugo-Dz/exe)
 
 ![Last work image](https://hdzmedia.xyz/wormhole.png)
