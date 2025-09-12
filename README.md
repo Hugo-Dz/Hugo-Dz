@@ -1,6 +1,6 @@
 ### Hi there
 
-**I design & code. AI enthusiast.** [My stuff](https://www.hugoduprez.com/)
+**I design & code. On-device AI. Product.** [My stuff](https://www.hugoduprez.com/)
 
    
 
@@ -11,6 +11,6 @@
 
   
 
-Latest work ➡️ [Text-to-Material Generator (acq)](https://www.texturelab.xyz/)
+Latest work ➡️ [JesterKit]([https://www.texturelab.xyz/](https://github.com/Hugo-Dz/exe))
 
-![Last work image](https://hdzmedia.xyz/texturelab_cover.png)
+![Last work image](https://hdzmedia.xyz/wormhole.png)
