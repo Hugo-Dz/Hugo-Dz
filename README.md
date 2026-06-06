@@ -6,4 +6,4 @@ Figma, Svelte, TypeScript, Rust, etc.
 
 Building creative tools like this:
 
-![Last work image](https://hdzmedia.xyz/cover_sf.png)
+![Last work image](https://hdzmedia.xyz/sf_cover_desktop.png)
