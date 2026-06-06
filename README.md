@@ -4,6 +4,4 @@
 
 Figma, Svelte, TypeScript, Rust, etc.
 
-Latest work ➡️ [JesterKit](https://github.com/Hugo-Dz/exe)
-
-![Last work image](https://hdzmedia.xyz/wormhole.png)
+![Last work image](https://hdzmedia.xyz/cover_sf.png)
