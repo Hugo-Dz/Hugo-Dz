@@ -1,4 +1,4 @@
-t### Hi there
+### Hi there
 
 **I design & code. On-device AI. Product.** [My stuff](https://www.hugoduprez.com/)
 
@@ -6,4 +6,4 @@ Figma, Svelte, TypeScript, Rust, etc.
 
 Building creative tools like this:
 
-![Last work image](https://hdzmedia.xyz/sf_desktop.png)
+![Last work image](https://hdzmedia.xyz/cover_sf.png)
